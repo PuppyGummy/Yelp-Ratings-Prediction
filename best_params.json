@@ -1,0 +1,1 @@
+{"embed_size": 200, "num_filters": 50, "filter_sizes": [2, 3, 4, 5], "dropout_rate": 0.5, "learning_rate": 0.001, "weight_decay": 1e-07, "batch_size": 32}
